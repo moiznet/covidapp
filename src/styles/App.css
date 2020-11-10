@@ -1,0 +1,131 @@
+.App {
+  text-align: center;
+}
+
+header h1 {
+    text-align: center;
+    width: 100%;
+}
+
+nav {
+    width: 100%;
+    overflow: hidden;
+}
+
+nav ul li {
+    background-color: #e8e5e5;
+    float: left;
+    padding: 20px;
+    list-style: none;
+    margin-left: 10px;
+    font-size: 26px;
+    border: 1px gray solid;
+    border-radius: 6px;
+}
+
+a {
+    text-decoration: none;
+}
+
+nav ul {
+    overflow: hidden;
+}
+
+nav ul {
+    margin: auto;
+    max-width: 298px;
+}
+
+h1 {}
+
+nav li a {
+    font-family: sans-serif;
+    color: black;
+}
+
+
+
+main {}
+
+main div h1 {
+    width: 100%;
+    text-align: center;
+    margin-top: 37px;
+    font-family: sans-serif;
+    margin-bottom: 35px;
+}
+
+.paislist {
+    list-style: none;
+    background-color: #e7f2ff;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    border: solid 1px #043a65;
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    color: black;
+    font-family: sans-serif;
+}
+
+
+a:hover {
+    opacity: .4;
+}
+
+a:hover h2 {
+    opacity: .4;
+}
+
+li.aspect {
+    list-style: none;
+    background-color: aliceblue;
+    border: 1px solid #2a608a;
+    border-radius: 5px;
+    padding: 17px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 275px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.aspect-title {
+    font-family: sans-serif;
+    font-weight: bold;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.aspect-value {
+    padding: 10px;
+}
+
+div#confirmados {
+    color: #204bc1;
+    font-weight: bold;
+    font-size: 53px;
+    font-family: sans-serif;
+}
+
+div#muertes {
+    color: #c12020;
+    font-weight: bold;
+    font-size: 53px;
+    font-family: sans-serif;
+}
+
+div#recuperado {
+    color: #20c160;
+    font-weight: bold;
+    font-size: 53px;
+    font-family: sans-serif;
+}
